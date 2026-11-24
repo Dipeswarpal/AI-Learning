@@ -6,7 +6,7 @@ from config import Config
 
 # Create a class to manage LLM operations
 class LLMService:
-
+ 
     def __init__(self):
 
         # Create a ChatOpenAI model instance
