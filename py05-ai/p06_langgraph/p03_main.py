@@ -1,4 +1,4 @@
-from p06_langgraph.p03_graph_service import CustomerSupportGraph
+from p03_graph_service import CustomerSupportGraph
 
 support_system = CustomerSupportGraph()
 

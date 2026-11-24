@@ -1,6 +1,6 @@
 from langgraph.graph import StateGraph, START, END
 
-from p06_langgraph.p03_state import SupportState
+from p03_state import SupportState
 
 
 class CustomerSupportGraph:
